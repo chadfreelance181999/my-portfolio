@@ -36,7 +36,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl w-5/6">
+          <p className="text-[#ADB7BE] text-base w-full sm:text-lg mb-6 lg:text-xl lg:w-5/6">
             Skilled in developing responsive websites using WordPress, Shopify, React, Next.js, and Native technologies, with expertise in HTML, CSS, JavaScript, and jQuery.
           </p>
           <div>
